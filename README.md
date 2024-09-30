@@ -92,4 +92,4 @@ GOPROXY=direct go get https://sourcecode.social/reiver/go-raft
 
 ## Author
 
-Package **raft** was written by [Charles Iliya Krempeaux](http://changelog.ca)
+Package **raft** was written by [Charles Iliya Krempeaux](http://reiver.link)
