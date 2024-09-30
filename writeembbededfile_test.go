@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"sourcecode.social/reiver/go-strfs"
+	"github.com/reiver/go-strfs"
 )
 
 func TestWriteEmbbededFile(t *testing.T) {

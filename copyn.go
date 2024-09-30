@@ -3,7 +3,7 @@ package raft
 import (
 	"io"
 
-	"sourcecode.social/reiver/go-erorr"
+	"github.com/reiver/go-erorr"
 )
 
 // copyN is similar to io.CopyN(), except that if the number of bytes written (by io.CopyN()) is not 'n' then it returns an error.

@@ -4,7 +4,7 @@ import (
 	"io"
 	"strconv"
 
-	"sourcecode.social/reiver/go-erorr"
+	"github.com/reiver/go-erorr"
 )
 
 // writeEmbeddedFile embeds a(nother) file into a RAFT file using the provided file-name, file-size, and file-content.

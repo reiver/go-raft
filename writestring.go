@@ -3,7 +3,7 @@ package raft
 import (
 	"io"
 
-	"sourcecode.social/reiver/go-erorr"
+	"github.com/reiver/go-erorr"
 )
 
 // writeString is similar to io.WriteString(), except that if the number of bytes written (by io.WriteString()) is not 'len(str)' then it returns an error.

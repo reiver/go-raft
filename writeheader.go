@@ -3,7 +3,7 @@ package raft
 import (
 	"io"
 
-	"sourcecode.social/reiver/go-erorr"
+	"github.com/reiver/go-erorr"
 )
 
 // writeHeader writes the header of a RAFT file.

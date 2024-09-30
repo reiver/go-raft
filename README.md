@@ -1,6 +1,6 @@
 # go-raft
 
-Package **raft** provides tools for reading and writing [RAFT files](https://sourcecode.social/reiver/raft-format), for the Go programming language.
+Package **raft** provides tools for reading and writing [RAFT files](https://github.com/reiver/raft-format), for the Go programming language.
 
 The **raft format** is a very simple and easy to understand **archive format** and **container format** that can combine multiple files into a single aggregate file.
 
@@ -22,20 +22,20 @@ The **raft format** is similar to other **archive formats**, such as the  **ar f
 
 The **raft format** is meant to be both programmer-legible and programmer-friendly.
 
-For more information on the **raft format** see: https://sourcecode.social/reiver/raft-format
+For more information on the **raft format** see: https://github.com/reiver/raft-format
 
 ## Documention
 
-Online documentation, which includes examples, can be found at: http://godoc.org/sourcecode.social/reiver/go-raft
+Online documentation, which includes examples, can be found at: http://godoc.org/github.com/reiver/go-raft
 
-[![GoDoc](https://godoc.org/sourcecode.social/reiver/go-raft?status.svg)](https://godoc.org/sourcecode.social/reiver/go-raft)
+[![GoDoc](https://godoc.org/github.com/reiver/go-raft?status.svg)](https://godoc.org/github.com/reiver/go-raft)
 
 ## Examples
 
 Here is an example of writing a **raft** file:
 
 ```go
-import "sourcecode.social/reiver/go-raft"
+import "github.com/reiver/go-raft"
 
 // ...
 
@@ -80,14 +80,14 @@ if nil != err{
 
 To import package **raft** use `import` code like the follownig:
 ```
-import "sourcecode.social/reiver/go-raft"
+import "github.com/reiver/go-raft"
 ```
 
 ## Installation
 
 To install package **raft** do the following:
 ```
-GOPROXY=direct go get https://sourcecode.social/reiver/go-raft
+GOPROXY=direct go get https://github.com/reiver/go-raft
 ```
 
 ## Author

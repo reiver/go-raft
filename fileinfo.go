@@ -3,7 +3,7 @@ package raft
 import (
 	"io/fs"
 
-	"sourcecode.social/reiver/go-erorr"
+	"github.com/reiver/go-erorr"
 )
 
 // fileInfo is similar to fs.File.Stat(), except that if fs.File.Stat() returns 'nil' for 'fs.FileInfo' then it returns an error.
