@@ -87,7 +87,7 @@ import "github.com/reiver/go-raft"
 
 To install package **raft** do the following:
 ```
-GOPROXY=direct go get https://github.com/reiver/go-raft
+GOPROXY=direct go get github.com/reiver/go-raft
 ```
 
 ## Author
