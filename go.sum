@@ -1,4 +1,10 @@
 github.com/reiver/go-erorr v0.0.0-20240801233437-8cbde6d1fa3f h1:D1QSxKHm8U73XhjsW3SFLkT0zT5pKJi+1KGboMhY1Rk=
 github.com/reiver/go-erorr v0.0.0-20240801233437-8cbde6d1fa3f/go.mod h1:F0HbBf+Ak2ZlE8YkDW4Y+KxaUmT0KaaIJK6CXY3cJxE=
+github.com/reiver/go-rcv v0.0.0-20250408214255-5b6ae84a1d7f h1:zUl4mQkWMSeuoubGboUTgI8igqGpeZu0G+PvWuLknOQ=
+github.com/reiver/go-rcv v0.0.0-20250408214255-5b6ae84a1d7f/go.mod h1:BR1ydW7NaFJjmA3pJR8Yz2yMxVKlpLi5irUrPIMWnNc=
 github.com/reiver/go-strfs v0.0.0-20240825123104-a22d8dfd04d4 h1:+jwuqCDWORvXNDTMa9DQ5dEd9u/jOpj4XqGVG/B5E1w=
 github.com/reiver/go-strfs v0.0.0-20240825123104-a22d8dfd04d4/go.mod h1:WH8mfjs3Mpv2+U7cDIuQieN9opUoD4AuwPqn8M8EtKA=
+github.com/reiver/go-utf8 v2.0.2-0.20240825112455-f6c2bd439d4f+incompatible h1:UnOzxDADv3uDI9QB8xh3ZAAmnaWyp7NlV2ny7K8FlG0=
+github.com/reiver/go-utf8 v2.0.2-0.20240825112455-f6c2bd439d4f+incompatible/go.mod h1:tfGntNDUeEZIAsz0mTu0lF7/IlErc+BpQgO6yxYmJig=
+github.com/reiver/go-whitespace v1.0.0 h1:+xRDKXwKWK8VtVnICxh/iSk1iKu2GxfisZTV3sOG/rI=
+github.com/reiver/go-whitespace v1.0.0/go.mod h1:sJJrL83SlvhKTkFke2C7T8Zq5JgiLS344l28c4RLUyc=
