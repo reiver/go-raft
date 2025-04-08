@@ -23,7 +23,7 @@ func writeHeader(writer io.Writer) error {
 	}
 
 	{
-		var header string = "RAFT/1" + eoleol
+		var header string = magic + eoleol
 
 		err := writeString(writer, header)
 		if nil != err {
